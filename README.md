@@ -30,9 +30,13 @@ Kelompok Lansia memiliki tingkat konversi yang berkisar antara 0,3 dan 0,35, sed
 ## Clustering
 
 Analisis segmentasi customer akan menggunakan LRFM, yakni:
+
 Length (L) : Mengukur durasi pelanggan sejak pertama kali berbelanja dalam sebuah market
+
 Recency (R) : Mengukur waktu sejak transaksi terakhir pelanggan
+
 Frequency (F): Mengukur seberapa sering pelanggan melakukan transaksi dalam periode waktu tertentu.
+
 Monetary (M): Mengukur jumlah uang yang dihabiskan pelanggan selama periode waktu tertentu.
 
 Fitur yang sesuai dalam metode segmentasi tersebut adalah:
