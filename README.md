@@ -39,11 +39,17 @@ Frequency (F): Mengukur seberapa sering pelanggan melakukan transaksi dalam peri
 
 Monetary (M): Mengukur jumlah uang yang dihabiskan pelanggan selama periode waktu tertentu.
 
+
 Fitur yang sesuai dalam metode segmentasi tersebut adalah:
+
 L : Total_Day_Membership
+
 R : Recency
+
 F : total_purchases
+
 M : total_spent
+
 
 ![image](https://github.com/txtmeyen11/Marketing-Campaign-Customer-Analysis-using-Machine-Learning/assets/126081314/3bc13054-8844-4e2d-a833-e3014bf1b875)
 
